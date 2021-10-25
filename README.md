@@ -1,12 +1,5 @@
-** JANGOMAX
+Whats hatnin
 
-** COMPUTER SCIENCE
-
-** THIS MY LIFE
-
-** MAKING SOFTWARE
-
-** DREAMS COME TRUE
 
 <!---
 jangomax/jangomax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
